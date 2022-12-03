@@ -45,7 +45,7 @@ You can add this dependency in the **ProjectRootDirectory/lib/commandExecutor-0.
         <dependency>
             <groupId>com.lynxonSSS.command-executor</groupId>
             <artifactId>CommandExecutor</artifactId>
-            <version>0.0.1</version>
+            <version>1.0.1</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/commandExecutor-1.0.1.jar</systemPath>
         </dependency>
