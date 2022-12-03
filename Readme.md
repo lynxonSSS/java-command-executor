@@ -15,7 +15,7 @@ ___
 
 ### **Initialize the constructor**
 
-### `CommandExecutor c = new CommandExecutor(pathToExecute);`
+### `CommandExecutor c = new CommandExecutor(directoryToExecuteCommand);`
 
 ### **Use the terminal executor to execute command** 
 
